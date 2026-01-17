@@ -1,2 +1,3 @@
 // I'm from Master
-alert("hello world");
+console.log('hello world');
+
